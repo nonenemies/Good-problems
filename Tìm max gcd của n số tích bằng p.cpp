@@ -49,4 +49,9 @@ int main() {
     //int tc;cin >> tc;while (tc--) {solve();}
     solve();
     return 0;
+
 }
+
+/*
+Cho N số nguyên A[1], A[2], …, A[N] thỏa mãn A[1] x A[2] x … x A[N] = P với số P cho trước. Nhiệm vụ của bạn là hãy tính giá trị lớn nhất có thể của GCD(A[1], A[2], …, A[N]).
+*/
